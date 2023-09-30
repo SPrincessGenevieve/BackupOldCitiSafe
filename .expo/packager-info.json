@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://6c-eeg.hime-xhan.citisafemob.exp.direct",
+  "packagerNgrokUrl": "https://6c-eeg.hime-xhan.citisafemob.exp.direct",
+  "ngrokPid": 90412,
+  "packagerPid": null,
+  "webpackServerPort": null
+}

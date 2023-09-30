@@ -1,0 +1,62 @@
+[
+  {
+    "classCode": "P",
+    "className": "Private Cars"
+  },
+  {
+    "classCode": "MC",
+    "className": "Motorcycles"
+  },
+  {
+    "classCode": "TR",
+    "className": "Tricycles"
+  },
+  {
+    "classCode": "J",
+    "className": "Jeepneys"
+  },
+  {
+    "classCode": "TX",
+    "className": "Taxis"
+  },
+  {
+    "classCode": "BUS",
+    "className": "Buses"
+  },
+  {
+    "classCode": "TRK",
+    "className": "Trucks"
+  },
+  {
+    "classCode": "TRA",
+    "className": "Trailers"
+  },
+  {
+    "classCode": "AR",
+    "className": "Articulated Vehicles"
+  },
+  {
+    "classCode": "SP",
+    "className": "Special Purpose Vehicles"
+  },
+  {
+    "classCode": "G",
+    "className": "Government Vehicles"
+  },
+  {
+    "classCode": "E",
+    "className": "Electric Vehicles"
+  },
+  {
+    "classCode": "VH",
+    "className": "Vehicles for Hire"
+  },
+  {
+    "classCode": "DV",
+    "className": "Diplomatic Vehicles"
+  },
+  {
+    "classCode": "OEV",
+    "className": "Other Exempt Motor Vehicles (OEV)"
+  }
+]
